@@ -1,0 +1,27 @@
+
+body{
+	font-size:20px;
+	color: #000;
+  	font-family: 'Lato', sans-serif;
+	background-image: url("http://www.desktopwallpaperhd.net/wallpapers/16/4/mountains-background-wallpapers-nature-static-165604.jpg");
+}
+.col-centered{
+	margin:0 auto;
+	float:none;
+}
+.head{
+	font-size:45px;
+	}
+.details{
+	position: relative;
+	top:200px;
+}
+
+.temp{
+	margin:0 auto;
+	width: 100%;
+	height: auto;
+}
+.wea{
+	margin-top:70px;
+}
